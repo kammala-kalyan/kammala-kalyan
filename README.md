@@ -1,16 +1,69 @@
-## Hi there 👋
-
 <!--
-**kammala-kalyan/Kammala-Kalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**kammala-kalyan/kammala-kalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+# 👋 Hi there, I'm Kammala Kalyan!
+
+🎓 I'm a student passionate about solving problems and learning through consistency.  
+💡 Currently focused on mastering Data Structures & Algorithms (DSA) in Java, with plans to move into the **Data Science** domain soon.
+
+---
+
+## 🔭 I’m currently working on:
+- 📘 Practicing DSA daily using Java and LeetCode.
+- 📂 Uploading clean, well-commented Java solutions to GitHub.
+- 📚 Strengthening my programming logic and problem-solving skills.
+
+---
+
+## 🌱 I’m preparing to learn next:
+- 🛢️ Complete SQL and relational database design.
+- 📊 Data visualization using Tableau.
+- 📐 Statistics & Probability for data analysis.
+- 🤖 Machine Learning and basic ML model building using Python.
+
+---
+
+## 👯 I’m looking to collaborate on:
+- Beginner-friendly DSA or data science projects.
+- Mini projects that apply real-world data and visualizations.
+- College-level or student-led open-source initiatives.
+
+---
+
+## 🤔 I’m looking for help with:
+- Building a structured path from DSA to Data Science.
+- Applying ML models on real datasets.
+- Choosing beginner-friendly datasets for practice.
+
+---
+
+## 💬 Ask me about:
+- How I stay consistent with daily coding.
+- How I’m organizing my learning path toward Data Science.
+- My experience in solving LeetCode problems with Java.
+
+---
+
+## 📫 How to reach me:
+- 📧 Email: *k.kalyan0925@gmail.com*
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
+- 💻 GitHub: [kammala-kalyan](https://github.com/kammala-kalyan)
+
+---
+
+## 😄 Pronouns:
+He / Him
+
+---
+
+## ⚡ Fun fact:
+Even when I get stuck on a problem, I enjoy the process of breaking it down and trying again. That’s where the real learning happens 🚀
+
+---
+
+### 📌 Explore My Work:
+- 🔢 [DSA_LeetCode](https://github.com/kammala-kalyan/DSA_LeetCode) – Java LeetCode solutions with comments
+- 📊 [FoDS-Mini-Project](https://github.com/kammala-kalyan/FoDS-Mini-Project) – Fundamentals of Data Science mini project
+- 🚀 [NasaSpaceAppChallenge](https://github.com/kammala-kalyan/NasaSpaceAppChallenge) – Hackathon project
+- ✍️ [JAVASCRIP-PRACTICE-CODES](https://github.com/kammala-kalyan/JAVASCRIP-PRACTICE-CODES) – Early practice with JavaScript
