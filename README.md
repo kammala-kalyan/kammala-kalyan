@@ -2,94 +2,93 @@
 **kammala-kalyan/kammala-kalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center" style="color:#002366;"><strong>👋 Hi there, I'm Kammala Kalyan</strong></h1>
+<h1 align="center"><strong>👋 Hi there, I'm Kammala Kalyan!</strong></h1>
 
-<p align="center">  
-  💻 Aspiring Data Scientist | 📘 Java & SQL Enthusiast | 🎯 Consistently Improving  
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 I'm a student who loves solving real-world problems through code.  
-Currently focused on:
-
-- ✅ Mastering **Data Structures & Algorithms** with Java  
-- ✅ Practicing SQL for database querying  
-- ✅ Transitioning into **Data Science** & Machine Learning  
+🎓 I'm a student passionate about solving problems and learning through consistency.
+💡 Currently focused on mastering Data Structures & Algorithms (DSA) in Java and exploring **SQL and Data Science**.
 
 ---
 
-## 🎯 Current Goals
+## 😄 Pronouns:
 
-- 📘 Solve DSA and SQL problems on LeetCode  
-- 🧠 Build logic through hands-on coding  
-- 📈 Work on ML mini projects with real datasets  
-- 🧪 Learn statistics, probability, and Tableau for data visualization
+He / Him
+
+---
+## 🔭 I’m currently working on:
+
+* 📘 Practicing DSA daily using Java and LeetCode
+* 📊 Solving LeetCode's SQL50 to strengthen real-world data querying skills
+* 📂 Uploading clean, well-commented code solutions to GitHub
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Learning:
 
-![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23f05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 My GitHub Stats
-
-### 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kammala-kalyan&theme=gruvbox&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kammala-kalyan&theme=dark&hide_border=false)](https://git.io/streak-stats)
-
-### 📈 GitHub Activity Graph
-
-[![Kalyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kammala-kalyan&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+* 📘 DSA
+* 🛢️ SQL & Relational Databases (`JOIN`, `GROUP BY`, subqueries, etc.)
+* 📐 Statistics & Probability for data analysis
+* 📊 Tableau for data visualization
+* 🤖 Basics of Machine Learning using Python
 
 ---
 
-## 🧠 Languages Breakdown
+## 🛠️ Languages and Tools:
 
-### 📊 Pie Chart
-
-![Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=pie&theme=radical)
-
-### 📊 Compact Bar Chart
-
-![Languages Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=compact&theme=radical)
-
----
-
-## 📂 Featured Projects
-
-- 🔢 [**DSA_LeetCode**](https://github.com/kammala-kalyan/DSA_LeetCode) – Java solutions to common coding problems
-- 📊 [**FoDS-Mini-Project**](https://github.com/kammala-kalyan/FoDS-Mini-Project) – Fundamentals of Data Science mini project
-- 🚀 [**NasaSpaceAppChallenge**](https://github.com/kammala-kalyan/NasaSpaceAppChallenge) – Hackathon project
-- ✍️ [**JavaScript Practice**](https://github.com/kammala-kalyan/JAVASCRIP-PRACTICE-CODES) – JS basics and experiments
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square\&logo=python\&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Stats
 
-- 📧 Email: *k.kalyan0925@gmail.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)  
-- 💻 [GitHub Profile](https://github.com/kammala-kalyan)  
+<!-- GitHub Stats -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kammala-kalyan\&show_icons=true\&theme=radical)
+
+<!-- Language Summary -->
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan\&layout=compact\&theme=radical)
+
+<!-- Profile Views -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=kammala-kalyan\&style=flat-square\&color=blue)
 
 ---
 
-## 🧠 Fun Fact
+## 📌 Explore My Work:
 
-> The best part of programming is **debugging** – it’s where the real growth and fun begins. I believe consistent practice builds lifelong skills. 💪
+* 📘 [SQL50-LeetCode-Solutions](https://github.com/kammala-kalyan/SQL50-LeetCode-Solutions) – Solving LeetCode’s Top 50 SQL challenges
+* 🔢 [DSA\_LeetCode](https://github.com/kammala-kalyan/DSA_LeetCode) – Java-based LeetCode solutions with comments
+* 📊 [FoDS-Mini-Project](https://github.com/kammala-kalyan/FoDS-Mini-Project) – Data Science mini project
+* 🚀 [NasaSpaceAppChallenge](https://github.com/kammala-kalyan/NasaSpaceAppChallenge) – Hackathon project
+* ✍️ [JavaScript-Practice-Codes](https://github.com/kammala-kalyan/JAVASCRIP-PRACTICE-CODES) – JS learning practice
 
 ---
 
-⭐ If you like what you see, consider giving a star ⭐ to any of my projects!
+## 💬 Ask Me About:
 
+* 🔁 How I stay consistent with coding
+* 💡 Building a roadmap from Java DSA to Data Science
+* 📌 My experience solving real-world SQL & DSA problems
+
+---
+
+## 📫 Connect with Me:
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
+* 📧 Email: *[k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)*
+* 💻 GitHub: [@kammala-kalyan](https://github.com/kammala-kalyan)
+
+---
+
+
+## ⚡ Fun fact:
+
+> Even when I get stuck on a problem, I enjoy the process of breaking it down and trying again. That’s where the real learning happens 🚀
+
+---
