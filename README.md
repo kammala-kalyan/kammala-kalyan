@@ -62,6 +62,24 @@ Even when I get stuck on a problem, I enjoy the process of breaking it down and 
 
 ---
 
+### 📊 My GitHub Stats Breakdown
+
+<!-- Pie Chart by Github Readme Stats (custom fork) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=pie&theme=radical)
+
+---
+
+<!-- Bar graph by GitHub Readme Stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=compact&theme=radical)
+
+---
+
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=kammala-kalyan&theme=onedark&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
 ### 📌 Explore My Work:
 - 🔢 [DSA_LeetCode](https://github.com/kammala-kalyan/DSA_LeetCode) – Java LeetCode solutions with comments
 - 📊 [FoDS-Mini-Project](https://github.com/kammala-kalyan/FoDS-Mini-Project) – Fundamentals of Data Science mini project
