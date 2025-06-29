@@ -86,17 +86,17 @@ He / Him
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kammala-kalyan\&show_icons=true\&theme=radical)
-
+-->
 <!-- Language Summary -->
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan\&layout=compact\&theme=radical)
 
 <!-- Profile Views -->
-
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=kammala-kalyan\&style=flat-square\&color=blue)
-
+-->
 ---
 
 ## 📌 Explore My Work:
@@ -108,7 +108,7 @@ He / Him
 * ✍️ [JavaScript-Practice-Codes](https://github.com/kammala-kalyan/JAVASCRIP-PRACTICE-CODES) – JS learning practice
 
 ---
-
+<!--
 ## 💬 Ask Me About:
 
 * 🔁 How I stay consistent with coding
@@ -116,10 +116,10 @@ He / Him
 * 📌 My experience solving real-world SQL & DSA problems
 
 ---
-
+-->
 ## 📫 Connect with Me:
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
 * 📧 Email: *[k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)*
 * 💻 GitHub: [@kammala-kalyan](https://github.com/kammala-kalyan)
 
