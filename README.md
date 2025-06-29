@@ -32,9 +32,7 @@ He / Him
 
 ---
 
-## 🛠️ Languages and Tools:
-
-<h2 align="center">🛠️ Skills I Have</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <table align="center">
   <tr>
@@ -83,6 +81,7 @@ He / Him
   </tr>
 </table>
 
+---
 
 ## 📊 GitHub Stats
 
