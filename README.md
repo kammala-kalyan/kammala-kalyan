@@ -71,7 +71,7 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ## 🚀 Featured Projects
 
 - 📘 [**SQL50-LeetCode-Solutions**](https://github.com/kammala-kalyan/SQL50-LeetCode-Solutions) — Solving LeetCode’s Top 50 SQL challenges
-- 🔢 [**DSA_LeetCode**](https://github.com/kammala-kalyan/DSA_LeetCode) — Java-based DSA practice with clean code
+- 🔢 [**Leet-Code DSA Solutions**](https://github.com/kammala-kalyan/DSA_LeetCode) — Java-based DSA practice with clean code
 - 📊 [**FoDS-Mini-Project**](https://github.com/kammala-kalyan/FoDS-Mini-Project) — Fundamentals of Data Science mini-project
 - 🚀 [**NasaSpaceAppChallenge**](https://github.com/kammala-kalyan/NasaSpaceAppChallenge) — Hackathon submission
 - ✍️ [**JavaScript-Practice-Codes**](https://github.com/kammala-kalyan/JAVASCRIP-PRACTICE-CODES) — JS exercises and small projects
