@@ -41,7 +41,7 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /><br><b>Java</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br><b>Python</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br><b>MySQL</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="50" /><br><b>MS Excel</b></td>
+    <td align="center"><img src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png" width="50" /><br><b>MS Excel</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br><b>HTML</b></td>
   </tr>
   <tr>
