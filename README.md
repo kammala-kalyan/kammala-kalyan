@@ -1,4 +1,7 @@
 <!-- Profile README -->
+<p align="center">
+  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/My%20Banner.png" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center"><strong>👋 Hey, I'm Kammala Kalyan</strong></h1>
 
