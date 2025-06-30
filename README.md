@@ -7,7 +7,6 @@
 <!--
 <p align="center">🎓 Computer Science Student | 💡 Data Science Enthusiast | 🧠 Lifelong Learner</p>
 -->
----
 
 ## 👨‍🎓 About Me
 
