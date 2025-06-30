@@ -38,17 +38,18 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br><b>C</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /><br><b>Java</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br><b>Python</b></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="50" /><br><b>Java</b></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="50" /><br><b>Python</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br><b>MySQL</b></td>
-    <td align="center"><img src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png" width="50" /><br><b>MS Excel</b></td>
+    <td align="center"><img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif" width="50" /><br><b>MS Excel</b></td>
+    <!-- https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png-->
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br><b>HTML</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br><b>CSS</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br><b>JS</b></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" /><br><b>JS</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br><b>GitHub</b></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000" width="50" /><br><b>GitHub</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br><b>VSCode</b></td>
     
   </tr>
