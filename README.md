@@ -82,7 +82,15 @@ He / Him
 </table>
 
 ---
+# My Streaks 🔥:
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9"
+    alt="GitHub Streak"
+  />
+</p>
 
+---
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
