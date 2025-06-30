@@ -1,5 +1,5 @@
 <!-- Profile README -->
-<div style="background-color:red; padding: 20px; border-radius: 12px">
+
 <p align="center">
   <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/My%20Banner.png" alt="Banner" width="100%" />
 </p>
@@ -94,4 +94,4 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 > I treat each bug as a puzzle to be solved. Sometimes frustrating, often rewarding — but always a step forward! 🚀
 
 --- 
-</div>
+
