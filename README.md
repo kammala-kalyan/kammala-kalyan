@@ -1,7 +1,8 @@
 <!-- Profile README -->
 
-<p align="center">
-  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/My%20Banner.png" alt="Banner" width="100%" />
+<p align="center"><!--
+  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/My%20Banner.png" alt="Banner" width="100%" />-->
+  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/My_Banner2.png" alt="Banner" width="100%" />
 </p>
 <!--
 <h1 align="center"><strong>👋 Hey, I'm Kammala Kalyan</strong></h1>-->
