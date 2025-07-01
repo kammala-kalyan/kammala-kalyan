@@ -72,9 +72,8 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 📊 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=donut&hide_progress=true&theme=tokyonight&hide_title=true" alt="Most Used Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=donut&hide_progress=true&theme=tokyonight&hide_title=true" alt="Most Used Languages" width="50%"/>
 </p>
 
 ---
