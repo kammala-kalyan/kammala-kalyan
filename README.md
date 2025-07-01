@@ -68,7 +68,9 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=compact&theme=radical" alt="Top Languages" />
 </p>-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=donut&hide_progress=true&theme=tokyonight&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=donut&hide_progress=true&theme=tokyonight&hide_title=true" alt="Most Used Languages" />
+</p>
 
 ---
 
