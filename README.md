@@ -102,3 +102,8 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 > *I treat each bug as a puzzle to be solved. Sometimes frustrating, often rewarding — but always a step forward!* 🚀
 
 --- 
+## 📊 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kammala-kalyan&theme=dark&hide_border=true&border_radius=10&background=000000" alt="GitHub Streak" />
+</p>
