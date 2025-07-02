@@ -105,5 +105,5 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ## 📊 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kammala-kalyan&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/GitHub%20Streaks-Track%20your%20progress-orange?style=for-the-badge&logo=github" alt="GitHub Streak Badge" />
 </p>
