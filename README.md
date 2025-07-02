@@ -102,8 +102,3 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 > *I treat each bug as a puzzle to be solved. Sometimes frustrating, often rewarding — but always a step forward!* 🚀
 
 --- 
-## 📊 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Streaks-Track%20your%20progress-orange?style=for-the-badge&logo=github" alt="GitHub Streak Badge" />
-</p>
