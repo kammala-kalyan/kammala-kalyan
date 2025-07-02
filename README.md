@@ -99,12 +99,6 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 
 ## ⚡ Fun Fact
 
-> I treat each bug as a puzzle to be solved. Sometimes frustrating, often rewarding — but always a step forward! 🚀
+> *I treat each bug as a puzzle to be solved. Sometimes frustrating, often rewarding — but always a step forward!* 🚀
 
 --- 
-## 📊 GitHub Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kammala-kalyan&theme=dark" alt="GitHub Streak" />
-</p>
-
