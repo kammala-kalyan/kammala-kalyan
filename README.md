@@ -62,12 +62,10 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 
 ## 📊 GitHub Stats & Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kammala-kalyan&theme=dark" />
-<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9" alt="GitHub Streak" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=compact&theme=radical" alt="Top Languages" />
 </p>-->
@@ -104,4 +102,9 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 > I treat each bug as a puzzle to be solved. Sometimes frustrating, often rewarding — but always a step forward! 🚀
 
 --- 
+## 📊 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kammala-kalyan&theme=dark" alt="GitHub Streak" />
+</p>
 
