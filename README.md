@@ -65,10 +65,10 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9" alt="GitHub Streak" />
 </p>
-<!--
+<!---->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=compact&theme=radical" alt="Top Languages" />
-</p>-->
+</p>
 
 ---
 
