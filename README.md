@@ -30,10 +30,10 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 
 ## 🔭 What I'm Working On
 
-- ✅ **Daily DSA Challenges** (Java + LeetCode)
-- ✅ **SQL Query Practice** (joins, group by, subqueries)
-- ✅ **Mini Data Science Projects**
-- ✅ **GitHub Portfolio Building** with readable, reviewed code
+-  **Daily DSA Challenges** (Java + LeetCode)
+-  **SQL Query Practice** (joins, group by, subqueries)
+-  **Mini Data Science Projects**
+-  **GitHub Portfolio Building** with readable, reviewed code
 
 ---
 
@@ -89,7 +89,7 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 
 ---
 
-## 📫 Let's Connect
+## 🔌 Let's Connect
 
 - 💼 LinkedIn  : [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
 - 📧 Email Id  : [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
