@@ -98,20 +98,20 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 -->
 <table>
   <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20"/></td>
-    <td><a href="https://www.linkedin.com/in/kammala-kalyan-a24909290/">LinkedIn</a></td>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20" /></td>
+    <td>&nbsp;<a href="https://www.linkedin.com/in/kammala-kalyan-a24909290/">LinkedIn</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20"/></td>
-    <td><a href="mailto:k.kalyan0925@gmail.com">k.kalyan0925@gmail.com</a></td>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20" /></td>
+    <td>&nbsp;<a href="mailto:k.kalyan0925@gmail.com">k.kalyan0925@gmail.com</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20"/></td>
-    <td><a href="https://github.com/kammala-kalyan">GitHub</a></td>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20" /></td>
+    <td>&nbsp;<a href="https://github.com/kammala-kalyan">GitHub</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20"/></td>
-    <td><a href="https://leetcode.com/u/Kammala_Kalyan/">LeetCode</a></td>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20" /></td>
+    <td>&nbsp;<a href="https://leetcode.com/u/Kammala_Kalyan/">LeetCode</a></td>
   </tr>
 </table>
 
