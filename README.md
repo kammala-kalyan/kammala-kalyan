@@ -84,10 +84,10 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 🔌 Let's Connect
-- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20" style="vertical-align:middle;"/>  LinkedIn  : [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
-- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20" style="vertical-align:middle;"/>  Email Id  : [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
-- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20" style="vertical-align:middle;"/> Git-Hub   : [GitHub](https://github.com/kammala-kalyan)
-- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20" style="vertical-align:middle;"/> Leet-Code : [LeetCode.com](https://leetcode.com/u/Kammala_Kalyan/)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="30" style="vertical-align:middle;"/>  LinkedIn  : [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="30" style="vertical-align:middle;"/>  Email Id  : [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="30" style="vertical-align:middle;"/> Git-Hub   : [GitHub](https://github.com/kammala-kalyan)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="30" style="vertical-align:middle;"/> Leet-Code : [LeetCode.com](https://leetcode.com/u/Kammala_Kalyan/)
 ---
 
 ## ⚡ Fun Fact
