@@ -90,11 +90,30 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 🔌 Let's Connect
-
+<!--
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20" style="vertical-align:middle;"/> [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20" style="vertical-align:middle;"/> [GitHub](https://github.com/kammala-kalyan)
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20" style="vertical-align:middle;"/> [LeetCode](https://leetcode.com/u/Kammala_Kalyan/)
+-->
+<table>
+  <tr>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20"/></td>
+    <td><a href="https://www.linkedin.com/in/kammala-kalyan-a24909290/">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20"/></td>
+    <td><a href="mailto:k.kalyan0925@gmail.com">k.kalyan0925@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20"/></td>
+    <td><a href="https://github.com/kammala-kalyan">GitHub</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20"/></td>
+    <td><a href="https://leetcode.com/u/Kammala_Kalyan/">LeetCode</a></td>
+  </tr>
+</table>
 
 ---
 
