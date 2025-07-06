@@ -91,10 +91,11 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 
 ## 🔌 Let's Connect
 
-- 💼 LinkedIn  : [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
-- 📧 Email Id  : [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
-- 💻 Git-Hub   : [GitHub](https://github.com/kammala-kalyan)
-- 👨🏼‍💻 Leet-Code : [LeetCode.com](https://leetcode.com/u/Kammala_Kalyan/)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20"/> [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20"/> [GitHub](https://github.com/kammala-kalyan)
+- <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20"/> [LeetCode](https://leetcode.com/u/Kammala_Kalyan/)
+
 ---
 
 ## ⚡ Fun Fact
