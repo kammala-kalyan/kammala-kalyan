@@ -11,7 +11,6 @@
 -->
 
 ## 👨‍🎓 About Me
-
 I'm a **Computer Science and Engineering** student at **Dayananda Sagar University - School of Engineering**, currently specializing in **Data Science**. I’m deeply passionate about **problem-solving**, **data analysis**, and **building real-world projects** that make an impact.
 
 Whether it’s writing efficient Java code for LeetCode problems or analyzing datasets using Python, I thrive on learning through consistency and applying my knowledge in practical ways.
@@ -19,7 +18,6 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 📌 Current Focus
-
 - 🧮 **Mastering Data Structures & Algorithms (DSA)** using Java
 - 🧠 **Learning core concepts of Data Science** and **SQL**
 - 🔎 Practicing LeetCode's **Top SQL50** problems
@@ -29,7 +27,6 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 🔭 What I'm Working On
-
 -  **Daily DSA Challenges** (Java + LeetCode)
 -  **SQL Query Practice** (joins, group by, subqueries)
 -  **Mini Data Science Projects**
@@ -38,7 +35,6 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br><b>C</b></td>
@@ -61,7 +57,6 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 📊 GitHub Stats & Streaks
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9" alt="GitHub Streak" />
 </p>
@@ -80,7 +75,6 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 🚀 Featured Projects
-
 - 📘 [**SQL50-LeetCode-Solutions**](https://github.com/kammala-kalyan/SQL50-LeetCode-Solutions) — Solving LeetCode’s Top 50 SQL challenges
 - 🔢 [**Leet-Code DSA Solutions**](https://github.com/kammala-kalyan/DSA_LeetCode) — Java-based DSA practice with clean code
 - 📊 [**FoDS-Mini-Project**](https://github.com/kammala-kalyan/FoDS-Mini-Project) — Fundamentals of Data Science mini-project
@@ -90,30 +84,10 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 ---
 
 ## 🔌 Let's Connect
-<!--
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20" style="vertical-align:middle;"/> [k.kalyan0925@gmail.com](mailto:k.kalyan0925@gmail.com)
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20" style="vertical-align:middle;"/> [GitHub](https://github.com/kammala-kalyan)
 - <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20" style="vertical-align:middle;"/> [LeetCode](https://leetcode.com/u/Kammala_Kalyan/)
--->
-<table>
-  <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/linkedin_logo.png" width="20" /></td>
-    <td>&nbsp;<a href="https://www.linkedin.com/in/kammala-kalyan-a24909290/">LinkedIn</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/mail_logo.png" width="20" /></td>
-    <td>&nbsp;<a href="mailto:k.kalyan0925@gmail.com">k.kalyan0925@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/githublogo.png" width="20" /></td>
-    <td>&nbsp;<a href="https://github.com/kammala-kalyan">GitHub</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/leetcode_logo.png" width="20" /></td>
-    <td>&nbsp;<a href="https://leetcode.com/u/Kammala_Kalyan/">LeetCode</a></td>
-  </tr>
-</table>
 
 ---
 
