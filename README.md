@@ -1,6 +1,6 @@
 
 <!-- Profile README -->
-<!--
+<!-- -->
 <p align="center">
   <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/My_Banner2.png" alt="Banner" width="100%" />
 </p>
@@ -10,7 +10,7 @@
 <!--
 <p align="center">🎓 Computer Science Student | 💡 Data Science Enthusiast | 🧠 Lifelong Learner</p>
 -->
-<!--
+<!-- -->
 ## 👨‍🎓 About Me
 I'm a **Computer Science and Engineering** student at **Dayananda Sagar University - School of Engineering**, currently specializing in **Data Science**. I’m deeply passionate about **problem-solving**, **data analysis**, and **building real-world projects** that make an impact.
 
