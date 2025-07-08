@@ -1,6 +1,6 @@
 
 <!-- Profile README -->
-<!-- -
+<!-- -->
 <p align="center">
   <img src="https://github.com/kammala-kalyan/kammala-kalyan/blob/main/My_Banner2.png" alt="Banner" width="100%" />
 </p>
@@ -10,7 +10,7 @@
 <!--
 <p align="center">🎓 Computer Science Student | 💡 Data Science Enthusiast | 🧠 Lifelong Learner</p>
 -->
-<!-- 
+<!-- -->
 ## 👨‍🎓 About Me
 I'm a **Computer Science and Engineering** student at **Dayananda Sagar University - School of Engineering**, currently specializing in **Data Science**. I’m deeply passionate about **problem-solving**, **data analysis**, and **building real-world projects** that make an impact.
 
@@ -61,7 +61,7 @@ Whether it’s writing efficient Java code for LeetCode problems or analyzing da
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9" alt="GitHub Streak" />
 </p>
-<!-- 
+<!-- -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammala-kalyan&layout=compact&theme=radical" alt="Top Languages" />
 </p> 
